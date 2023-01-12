@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nakulamk" alt="nakulamk" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nakula_gowda" target="blank"><img src="https://img.shields.io/twitter/follow/nakula_gowda?logo=twitter&style=for-the-badge" alt="nakula_gowda" /></a> </p>
+
 
 - 🔭 I’m currently working on [Motoride](motoride.in)
 
@@ -39,5 +39,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nakulamk&show_icons=true&locale=en&layout=compact" alt="nakulamk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nakulamk&show_icons=true&locale=en" alt="nakulamk" /></p>
-
+<p align="left"> <a href="https://twitter.com/nakula_gowda" target="blank"><img src="https://img.shields.io/twitter/follow/nakula_gowda?logo=twitter&style=for-the-badge" alt="nakula_gowda" /></a> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nakulamk&" alt="nakulamk" /></p>
